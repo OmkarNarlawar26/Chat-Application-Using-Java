@@ -181,7 +181,7 @@ See the [LICENSE](LICENSE) file for details.
 If you like this project, give it a **Star** on  
 [GitHub](https://github.com/OmkarNarlawar26)!
 
-Connect to [Linkedin](in/omkar-narlawar-7504a8388)!
+Connect to [Linkedin](https://www.linkedin.com/in/omkar-narlawar-7504a8388/)!
 
 ---
 
