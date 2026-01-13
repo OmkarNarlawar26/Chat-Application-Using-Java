@@ -44,6 +44,17 @@ It is built using **Core Java concepts**, making it ideal for learning **Network
 
 ---
 
+## Prerequisites
+
+Before running this project, ensure you have:
+
+- Java Development Kit (JDK) 8 or higher
+- Basic understanding of Java Swing and Socket Programming
+- Command Prompt / Terminal
+- Any Java-supported OS (Windows / Linux / macOS)
+
+---
+
 ## 📁 Project Structure
 
 ~~~text
@@ -166,6 +177,17 @@ java ChatClientGUI
 
 ---
 
+## Future Enhancements
+
+- Multiple client support
+- User authentication system
+- Message timestamps
+- File sharing between client and server
+- Chat history storage (database integration)
+- Improved UI with modern layouts
+
+---
+
 ##  License
 
 This project is licensed under the **MIT License** — feel free to modify and use it for learning or development purposes.
@@ -187,8 +209,13 @@ Connect to [Linkedin](https://www.linkedin.com/in/omkar-narlawar-7504a8388/)!
 
 ## 🔗 Useful Links
 
-* [Java Socket Documentation](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
-* [Oracle Java Tutorials - Networking](https://docs.oracle.com/javase/tutorial/networking/)
+- [Java Socket Documentation](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
+- [Oracle Java Tutorials – Networking](https://docs.oracle.com/javase/tutorial/networking/)
+- [Java ServerSocket API](https://docs.oracle.com/javase/8/docs/api/java/net/ServerSocket.html)
+- [Java Swing Tutorial (GUI)](https://docs.oracle.com/javase/tutorial/uiswing/)
+- [Java Multithreading (Concurrency)](https://docs.oracle.com/javase/tutorial/essential/concurrency/)
+- [StyledDocument – Text Formatting](https://docs.oracle.com/javase/8/docs/api/javax/swing/text/StyledDocument.html)
+- [Runnable Interface](https://docs.oracle.com/javase/8/docs/api/java/lang/Runnable.html)
 
 ---
  
