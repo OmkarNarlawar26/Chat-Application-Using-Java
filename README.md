@@ -198,7 +198,6 @@ See the [LICENSE](LICENSE) file for details.
 ## Author
 
 **Omkar Sachin Narlawar**  
-*Java | Swing | Socket Programming*
 
 If you like this project, give it a **Star** on  
 [GitHub](https://github.com/OmkarNarlawar26)!
